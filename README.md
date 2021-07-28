@@ -14,7 +14,7 @@ A single-page map application that finds the midpoint between two locations base
 - **Adjustable Radius:** Allows the user to adjust the radius to widen/shrink the search range.
 - **Venue Filter:** Allows the user to select the venue type - Bars, restaurants or cafes.
 - **Search Autocomplete:** Predicts the user input.
-- **User Location Detection:** Shows the user’s current location on the map when the website loads(with their permission).
+- **User Location Detection:** Shows the user’s current location on the map when the website loads (with their permission).
 - **Fluid map user interface:** Automatically zooms in & out when required, interactive location markers & a visually responsive radius.
 - **Sort:** Lets the user sort the venue list by - Rating or Distance from midpoint.
 - **Detailed Venue Details Modal:** Shows the user important venue information such as rating, contact details and opening hours at a glance.
