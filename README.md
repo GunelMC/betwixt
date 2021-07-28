@@ -20,6 +20,7 @@ A single-page map application that finds the midpoint between two locations base
 - **Detailed Venue Details Modal:** Shows the user important venue information such as rating, contact details and opening hours at a glance.
 - **Interactive Markers and InfoWindows:** Shows key venue information as you hover over the list of venues or markers on the map.
 - **Intuitive & modern user interface:** Allows the user to instantly & instinctively know how to use the app.
+- **User Location Detection:** Identifies the user's current location with their permission.
 
 ## Tech Stack
 
