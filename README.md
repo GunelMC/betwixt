@@ -51,7 +51,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Or try online at: https://betwixt-green.vercel.app
 
-## Credits
+## Credits - Thank you, Next.js Team
 
 - [Robert Dupplaw](https://github.com/rdupplaw)
 - [Gunel Mehdiyeva-Chau](https://github.com/GunelMC)
