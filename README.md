@@ -6,7 +6,7 @@
 
 [![DEMO VIDEO](https://img.youtube.com/vi/lxNTDkRQrRQ/hqdefault.jpg)](https://www.youtube.com/watch?v=lxNTDkRQrRQ)
 
-A single-page map application that finds the midpoint between two locations based on travel time, displaying a list of local venues(restaurants, bars and cafes) within a selected radius of that midpoint.
+A single-page map application that finds the midpoint between two locations based on travel time, displaying a list of local venues(restaurants, bars and cafes) within a selected radius of that midpoint. Team Presentation demo [here at 18:55](https://www.youtube.com/watch?v=LFv_0LF3j-U).
 
 ## Key Features
 
